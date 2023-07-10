@@ -39,7 +39,7 @@ body {
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/painted-solid-concrete-wall-textured-backdrop.jpg);
-    background-size: cover;
+    background-size: contain;
 }
 
 /*=======GENERAL STYLES=======*/
@@ -63,6 +63,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2,

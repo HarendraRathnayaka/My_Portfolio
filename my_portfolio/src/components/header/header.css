@@ -62,17 +62,31 @@ header {
 /*=========== Media Query (Medium Devices) =============*/
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        padding-top: 5rem;
+    }
+
+    .me {
+        width: 18rem;
+        height: 26rem;
+        left: calc(50% - 9rem);
+        margin-top: 3rem;
     }
 }
 
 /*=========== Media Query (Small Devices) =============*/
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        padding-top: 3rem;
     }
 
-    .header_socials, .scroll__down {
+    .me {
+        width: 14rem;
+        height: 22rem;
+        left: calc(50% - 7rem);
+        margin-top: 2rem;
+    }
+
+    .scroll__down {
         display: none;
     }
 }

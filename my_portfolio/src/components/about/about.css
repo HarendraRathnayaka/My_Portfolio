@@ -16,12 +16,11 @@
 .about_me_image {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(5deg);
     transition: var(--transition);
 }
 
 .about_me_image:hover {
-    transform: rotate(0);
+    transform: scale3d(1.03, 1.03, 1);
 }
 
 .about_cards {

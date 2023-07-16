@@ -37,7 +37,7 @@ const About = () => {
             </article>            
           </div>
           <p>
-          I am an ambitious and dedicated person who pursuing a degree in Information Technology. With a passion for technology and a curiosity for innovation, I strive to 
+          I am an ambitious and dedicated person who pursuing a BSc(Hons) in Information Technology specializing in Information Technology degree from <a href='https://www.sliit.lk/'><b>SLIIT</b></a> Faculty of Computing. With a passion for technology and a curiosity for innovation, I strive to 
           excel in this ever-evolving field. With a strong commitment to continuous learning, I am eager to contribute to the IT industry's advancements and make a positive impact 
           through creative problem-solving and cutting-edge solutions.
           </p>

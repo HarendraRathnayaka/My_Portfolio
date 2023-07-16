@@ -32,6 +32,18 @@ const Services = () => {
             </li>
           </ul>
         </article>
+
+        <article className='service'>
+          <div className='service_head'>
+            <h3>Mobile App Development</h3>
+          </div>
+          <ul className='service_list'>
+            <li>
+              <MdDeveloperMode className='service_list-icon'/>
+              <p>Mobile app development involves the creation and deployment of software applications specifically designed for mobile devices. It encompasses the entire process of designing, coding, testing, and launching apps for platforms like iOS and Android. It requires expertise in programming languages, user interface design, and an understanding of mobile device capabilities to create engaging and functional apps.</p>
+            </li>
+          </ul>
+        </article>
       </div>
     </section>
   )

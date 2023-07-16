@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.945aea82.css",
-    "main.js": "/My_Portfolio/static/js/main.3ad5c00f.js",
+    "main.js": "/My_Portfolio/static/js/main.7945c3bc.js",
     "static/media/painted-solid-concrete-wall-textured-backdrop.jpg": "/My_Portfolio/static/media/painted-solid-concrete-wall-textured-backdrop.4bb3c2f25a4ecea8e875.jpg",
     "static/media/airLine.jpeg": "/My_Portfolio/static/media/airLine.f9f41fb57478cbf638c9.jpeg",
     "static/media/me.png": "/My_Portfolio/static/media/me.ff0abcb57d5252bc44e5.png",
@@ -13,10 +13,10 @@
     "static/media/leader.jpg": "/My_Portfolio/static/media/leader.19455ad353ca3dab7b6c.jpg",
     "index.html": "/My_Portfolio/index.html",
     "main.945aea82.css.map": "/My_Portfolio/static/css/main.945aea82.css.map",
-    "main.3ad5c00f.js.map": "/My_Portfolio/static/js/main.3ad5c00f.js.map"
+    "main.7945c3bc.js.map": "/My_Portfolio/static/js/main.7945c3bc.js.map"
   },
   "entrypoints": [
     "static/css/main.945aea82.css",
-    "static/js/main.3ad5c00f.js"
+    "static/js/main.7945c3bc.js"
   ]
 }

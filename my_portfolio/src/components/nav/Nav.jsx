@@ -4,7 +4,6 @@ import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai';
 import { BiBook, BiMessageSquareDetail } from 'react-icons/bi';
 import { RiServiceLine } from 'react-icons/ri';
 import { BsPersonWorkspace } from 'react-icons/bs';
-import { VscWorkspaceTrusted } from 'react-icons/vsc';
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState('#');
@@ -69,13 +68,6 @@ const Nav = () => {
         className={activeNav === '#portfolio' ? 'active' : ''}
       >
         <BsPersonWorkspace />
-      </a>
-      <a
-        href="#testimonials"
-        onClick={() => setActiveNav('#testimonials')}
-        className={activeNav === '#testimonials' ? 'active' : ''}
-      >
-        <VscWorkspaceTrusted />
       </a>
       <a
         href="#contact"

@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.945aea82.css",
-    "main.js": "/My_Portfolio/static/js/main.7945c3bc.js",
+    "main.js": "/My_Portfolio/static/js/main.e2029915.js",
     "static/media/painted-solid-concrete-wall-textured-backdrop.jpg": "/My_Portfolio/static/media/painted-solid-concrete-wall-textured-backdrop.4bb3c2f25a4ecea8e875.jpg",
     "static/media/airLine.jpeg": "/My_Portfolio/static/media/airLine.f9f41fb57478cbf638c9.jpeg",
     "static/media/me.png": "/My_Portfolio/static/media/me.ff0abcb57d5252bc44e5.png",
-    "static/media/Harendra_CV.pdf": "/My_Portfolio/static/media/Harendra_CV.9604115a5a5b57fe3b3a.pdf",
+    "static/media/Harendra_CV.pdf": "/My_Portfolio/static/media/Harendra_CV.f72f227be8d1b4fd36ac.pdf",
     "static/media/timberCompany.jpg": "/My_Portfolio/static/media/timberCompany.520acba07efc09f6aebc.jpg",
     "static/media/me2.jpg": "/My_Portfolio/static/media/me2.9a052aa3e900509fec5a.jpg",
     "static/media/helpDesk.jpg": "/My_Portfolio/static/media/helpDesk.db13210231310e4bf58a.jpg",
@@ -13,10 +13,10 @@
     "static/media/leader.jpg": "/My_Portfolio/static/media/leader.19455ad353ca3dab7b6c.jpg",
     "index.html": "/My_Portfolio/index.html",
     "main.945aea82.css.map": "/My_Portfolio/static/css/main.945aea82.css.map",
-    "main.7945c3bc.js.map": "/My_Portfolio/static/js/main.7945c3bc.js.map"
+    "main.e2029915.js.map": "/My_Portfolio/static/js/main.e2029915.js.map"
   },
   "entrypoints": [
     "static/css/main.945aea82.css",
-    "static/js/main.7945c3bc.js"
+    "static/js/main.e2029915.js"
   ]
 }
